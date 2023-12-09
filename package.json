@@ -22,7 +22,7 @@
   },
   "scripts": {
     "dev": "nodemon server.js",
-    "build": "yarn && cd ../client && yarn && yarn build",
+    "build": "yarn",
     "start": "node server.js"
   },
   "keywords": [],
