@@ -5,7 +5,6 @@ import helmet from "helmet";
 import dotenv from "dotenv";
 import morgan from "morgan";
 import cors from "cors";
-import path from "path";
 
 /* CONFIGURATIONS */
 const app = express();
